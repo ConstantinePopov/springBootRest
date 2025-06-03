@@ -1,5 +1,6 @@
 package ru.netology.springBootRest.repository;
 
+import lombok.Data;
 import org.springframework.stereotype.Repository;
 import ru.netology.springBootRest.Authorities;
 
