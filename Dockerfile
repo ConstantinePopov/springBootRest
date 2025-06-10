@@ -1,4 +1,4 @@
-FROM openjdk:18-jdk-alpine3.13
+FROM openjdk:18-jdk-alpine
 
 EXPOSE 8080
 
